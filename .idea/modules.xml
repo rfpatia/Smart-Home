@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Smart Home.iml" filepath="$PROJECT_DIR$/Smart Home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudsdk/cloudsdk.iml" filepath="$PROJECT_DIR$/cloudsdk/cloudsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smarthome_app/smarthome_app.iml" filepath="$PROJECT_DIR$/smarthome_app/smarthome_app.iml" />
+    </modules>
+  </component>
+</project>

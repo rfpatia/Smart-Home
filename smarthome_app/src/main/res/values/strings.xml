@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Internet Of Things</string>
+
+    <string name="splash_name">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">Login</string>
+    <string name="title_activity_value">ValueActivity</string>
+
+</resources>
