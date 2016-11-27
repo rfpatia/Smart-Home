@@ -37,7 +37,7 @@
             android:layout_alignParentEnd="true" />
 
         <TextView
-            android:text="Vaccum Clearn Bot"
+            android:text="Vaccum Cleaner Bot"
             android:textSize="30dp"
             android:textColor="#f23"
             android:layout_width="wrap_content"
